@@ -17,6 +17,7 @@ import NotFound from './pages/NotFound'
 import { AuthProvider, useAuth } from './context/AuthContext'
 import { ThemeProvider, useTheme } from './context/ThemeContext'
 import Navbar from './components/Navbar'
+import Footer from './components/Footer'
 
 function App() {
   return (
